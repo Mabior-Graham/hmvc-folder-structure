@@ -1,0 +1,1 @@
+<h1>Hello from Auth</h1>
